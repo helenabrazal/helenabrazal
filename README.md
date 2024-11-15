@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helenabrazal
 - 👀 I’m interested in malaria epidemiology, focused on parasite and host dynamics (genomics and immunology respectively). 
-- 🌱 I’m currently learning bioinformatics and improving my R programming skills. 
+- 🌱 I’m currently learning bioinformatics and improving my biostatistics/R programming skills. 
 - 📫 How to reach me helena.brazal@isglobal.org
 - 😄 Pronouns: she/her 
 
